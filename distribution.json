@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "rss": "https://status.mojang.com/check",
+  "discord": {
+    "clientId": "",
+    "smallImageKey": "",
+    "smallText": ""
+  },
+  "servers": [
+    {
+      "id": "server-dom",
+      "name": "La Caja de Dom",
+      "description": "¡Servidor oficial de nuestra serie de Minecraft!",
+      "icon": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
+      "version": "1.20.1",
+      "address": "35.224.117.100:25565",
+      "discord": {
+        "shortId": "Serie",
+        "largeImageKey": "server_icon",
+        "largeText": "Jugando la Serie"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:47.2.0",
+          "name": "Minecraft Forge",
+          "type": "Forge",
+          "required": {
+            "value": true,
+            "def": true
+          }
+        },
+        {
+          "id": "jei",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "url": "https://www.curseforge.com/api/v1/mods/238222/files/7920915/download",
+          "required": {
+            "value": true,
+            "def": true
+          }
+        }
+      ]
+    }
+  ]
+}
