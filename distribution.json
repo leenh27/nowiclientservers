@@ -1,50 +1,45 @@
 {
   "version": "1.0.0",
-  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
-  "discord": {
-    "clientId": "",
-    "smallImageKey": "",
-    "smallText": ""
-  },
+  "rss": "https://status.mojang.com/check",
   "servers": [
     {
-      "id": "server-dom",
-      "name": "La Caja de Dom",
+      "id": "serie-amigos",
+      "name": "Serie de Amigos",
       "description": "¡Servidor oficial de nuestra serie de Minecraft!",
-      "icon": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
-      "version": "1.0.0",
-      "address": "35.224.117.100:25565",
-      "minecraftVersion": "1.19.4",
+      "icon": "https://raw.githubusercontent.com/tu_usuario/serie-craft-files/main/server_icon.png",
+      "version": "1.20.1",
+      "address": "35.224.117.100:25565:25565",
       "discord": {
-        "shortId": "1.19.4 Demo",
-        "largeImageKey": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
-        "largeImageText": "forge-vanilla"
+        "shortId": "Serie",
+        "largeImageKey": "server_icon",
+        "largeText": "Jugando la Serie"
       },
       "mainServer": true,
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.15.6",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1321135,
-            "MD5": "744dbc7c568d7e782e6616637a14f6b3",
-            "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/fabricmc/fabric-loader/0.15.6/fabric-loader-0.15.6.jar"
+          "id": "net.minecraftforge:forge:47.2.0",
+          "name": "Minecraft Forge",
+          "type": "Forge",
+          "required": {
+            "value": true,
+            "def": true
+          }
+        },
+        {
+          "id": "custom:ejemplomod:1.0.0",
+          "name": "Nombre del Mod de Prueba",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
           },
-          "subModules": [
-            {
-              "id": "1.20.4-fabric-0.15.6",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2847,
-                "MD5": "6052ebb6acbba734c83fd3a09e67d31e",
-                "url": "https://helios-files.geekcorner.eu.org/repo/versions/1.20.4-fabric-0.15.6/1.20.4-fabric-0.15.6.json"
-              }
-            }
-          ]
-        }  
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/tu_usuario/serie-craft-files/main/mods/ejemplo.jar",
+            "size": 1048576,
+            "MD5": ""
+          }
+        }
       ]
     }
   ]
