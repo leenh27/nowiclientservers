@@ -23,24 +23,27 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:47.2.0",
-          "name": "Minecraft Forge",
-          "type": "Forge",
-          "required": {
-            "value": true,
-            "def": true
-          }
-        },
-        {
-          "id": "jei",
-          "name": "Just Enough Items",
-          "type": "ForgeMod",
-          "url": "https://www.curseforge.com/api/v1/mods/238222/files/7920915/download",
-          "required": {
-            "value": true,
-            "def": true
-          }
-        }
+          "id": "net.fabricmc:fabric-loader:0.15.6",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1321135,
+            "MD5": "744dbc7c568d7e782e6616637a14f6b3",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/fabricmc/fabric-loader/0.15.6/fabric-loader-0.15.6.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.4-fabric-0.15.6",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "6052ebb6acbba734c83fd3a09e67d31e",
+                "url": "https://helios-files.geekcorner.eu.org/repo/versions/1.20.4-fabric-0.15.6/1.20.4-fabric-0.15.6.json"
+              }
+            }
+          ]
+        }  
       ]
     }
   ]
