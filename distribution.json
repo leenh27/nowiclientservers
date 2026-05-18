@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "rss": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/novedades.xml",
-  "background": "https://images4.alphacoders.com/122/1223528.jpg",
+  "background": "https://i.ibb.co/zWZcZK9G/nowiclient-background.png",
   "discord": {
     "clientId": "1505808577279950910",
     "smallImageText": "Nowi Client",
@@ -14,7 +14,7 @@
       "description": "¡Servidor oficial de la serie Caja de Dom!",
       "icon": "https://i.ibb.co/DDSXn784/cajadedom-icon.png",
       "version": "1.0.0",
-      "background": "https://images4.alphacoders.com/118/1186546.jpg",
+      "background": "https://a-static.besthdwallpaper.com/source-code-wallpaper-2560x1440-59960_51.jpg",
       "address": "35.224.117.100:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
