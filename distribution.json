@@ -7,17 +7,19 @@
     "smallText": ""
   },
   "servers": [
-    {
+    
+      {
       "id": "server-dom",
       "name": "La Caja de Dom",
       "description": "¡Servidor oficial de nuestra serie de Minecraft!",
       "icon": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
-      "version": "1.20.1",
+      "version": "1.0.0",
       "address": "35.224.117.100:25565",
+      "minecraftVersion": "1.19.4",
       "discord": {
-        "shortId": "Serie",
-        "largeImageKey": "server_icon",
-        "largeText": "Jugando la Serie"
+        "shortId": "1.19.4 Demo",
+        "largeImageKey": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
+        "largeImageText": "forge-vanilla"
       },
       "mainServer": true,
       "autoconnect": true,
