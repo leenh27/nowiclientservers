@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "rss": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/novedades.xml",
+  "background": "https://images4.alphacoders.com/122/1223528.jpg",
   "discord": {
     "clientId": "1505808577279950910",
     "smallImageText": "Nowi Client",
