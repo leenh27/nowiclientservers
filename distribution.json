@@ -21,7 +21,7 @@
         "largeImageText": "cajadedom_logo",
         "largeImageKey": "Explorando la Caja de Dom"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": true,
       "modules": [
         {
