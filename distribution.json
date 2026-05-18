@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://status.mojang.com/check",
+  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
   "discord": {
     "clientId": "",
     "smallImageKey": "",
