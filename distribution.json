@@ -13,7 +13,7 @@
       "description": "¡Servidor oficial de la serie Caja de Dom!",
       "icon": "https://i.ibb.co/DDSXn784/cajadedom-icon.png",
       "version": "1.0.0",
-      "address": "135.224.117.100:25565",
+      "address": "35.224.117.100:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "cajadedomboton",
