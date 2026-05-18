@@ -12,7 +12,6 @@
       "name": "Caja de Dom",
       "description": "¡Servidor oficial de la serie Caja de Dom!",
       "icon": "https://i.ibb.co/DDSXn784/cajadedom-icon.png",
-      "background": "https://images4.alphacoders.com/118/1186546.jpg"
       "version": "1.0.0",
       "address": "35.224.117.100:25565",
       "minecraftVersion": "1.20.1",
