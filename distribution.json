@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "rss": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/novedades.xml",
-  "background": "https://i.ibb.co/zWZcZK9G/nowiclient-background.png",
+  "background": "https://i.ibb.co/Tx2YFV1X/nowiclient-background.png",
   "loginbackground": "https://i.ibb.co/4Ryk2X1r/nowiclient-login-background.png",
   "discord": {
     "clientId": "1505808577279950910",
