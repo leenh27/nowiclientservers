@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/novedades.xml",
+  "rss": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/novedades.xml",
   "background": "https://i.ibb.co/Tx2YFV1X/nowiclient-background.png",
   "loginbackground": "https://i.ibb.co/4Ryk2X1r/nowiclient-login-background.png",
   "discord": {
@@ -33,7 +33,7 @@
           "artifact": {
             "size": 1968930,
             "MD5": "d692407a67129e913b4210218edebb20",
-            "url": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/repo/lib/net/fabricmc/fabric-loader/0.19.2/fabric-loader-0.19.2.jar"
+            "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/repo/lib/net/fabricmc/fabric-loader/0.19.2/fabric-loader-0.19.2.jar"
           },
           "subModules": [
             {
@@ -43,7 +43,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "a6433d509200a85d42bf01ca1e24ddbf",
-                "url": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/repo/versions/1.20.1-fabric-0.19.2/1.20.1-fabric-0.19.2.json"
+                "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/repo/versions/1.20.1-fabric-0.19.2/1.20.1-fabric-0.19.2.json"
               }
             },
             {
@@ -53,7 +53,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -63,7 +63,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -73,7 +73,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -83,7 +83,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -93,7 +93,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -103,7 +103,7 @@
               "artifact": {
                 "size": 1540039,
                 "MD5": "4b6b96074976cc7aa096b9e569ca623e",
-                "url": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/repo/lib/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/repo/lib/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar"
               }
             },
             {
@@ -113,7 +113,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -124,7 +124,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2111565,
-            "url": "https://raw.githubusercontent.com/leenh27/nowiclient/refs/heads/main/servers/caja-de-dom-1.20.1/fabricmods/required/fabric-api-0.92.9+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/servers/caja-de-dom-1.20.1/fabricmods/required/fabric-api-0.92.9+1.20.1.jar",
             "MD5": "7872cc7a93aad304344f984f13223db3"
           }
         }
