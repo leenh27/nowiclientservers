@@ -3,18 +3,18 @@
         <title>Nowi Client - Caja de Dom</title>
         <link>https://github.com/leenh27/nowiclient/</link>
         <item>
-            <title>¡Bienvenidos a Nowi Client!</title>
+            <title>¡BIENVENIDOS A NOWI CLIENT!</title>
             <content:encoded>
-                <![CDATA[ <p>El launcher oficial para la serie ya está completamente listo.</p> <p>Estamos utilizando Fabric para garantizar el mejor rendimiento de todos en el servidor <strong>Caja de Dom</strong>.</p> ]]>
+                <p>El launcher oficial para la serie ya está completamente listo.</p> <p>Estamos utilizando Fabric para garantizar el mejor rendimiento de todos en el servidor <strong>Caja de Dom</strong>.</p>
             </content:encoded>
             <dc:creator>leenh</dc:creator>
             <pubDate>18 May 2026 00:00:00</pubDate>
             <slash:comments>2026</slash:comments>
         </item>
         <item>
-            <title>Soporte para múltiples noticias</title>
+            <title>ESTA SECCIÓN TENDRA TODAS LAS ACTUALIZACIONES</title>
             <content:encoded>
-                <![CDATA[ <p>Desde esta pestaña les iré avisando cuando agreguemos nuevos mods o si hay algún mantenimiento programado.</p> <ul> <li>¡Recuerden revisar la asignación de RAM en los ajustes!</li> </ul> ]]>
+                <p>Desde esta pestaña les iré avisando cuando agreguemos nuevos mods o si hay algún mantenimiento programado.</p> <ul> <li>¡Recuerden revisar la asignación de RAM en los ajustes!</li>
             </content:encoded>
             <dc:creator>leenh</dc:creator>
             <pubDate>18 May 2026 01:00:00</pubDate>
