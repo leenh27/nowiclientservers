@@ -14174,6 +14174,17 @@
           }
         },
         {
+          "id": "Chunky-1.3.146.jar",
+          "name": "Chunky-1.3.146.jar",
+          "type": "File",
+          "artifact": {
+            "size": 344004,
+            "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/servers/cajadedom-test-1.20.1/files/mods/Chunky-1.3.146.jar",
+            "MD5": "b1e31424db96ae83246efd0390598e01",
+            "path": "mods/Chunky-1.3.146.jar"
+          }
+        },
+        {
           "id": "cicada-lib-0.14.3+1.20.1.jar",
           "name": "cicada-lib-0.14.3+1.20.1.jar",
           "type": "File",
@@ -15318,6 +15329,17 @@
           }
         },
         {
+          "id": "ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar",
+          "name": "ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 163628,
+            "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/servers/cajadedom-test-1.20.1/files/mods/ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar",
+            "MD5": "1556c4cd7b91455c8d062935577587fe",
+            "path": "mods/ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar"
+          }
+        },
+        {
           "id": "ftbxemicompat-no-ambient-1.0.1.jar",
           "name": "ftbxemicompat-no-ambient-1.0.1.jar",
           "type": "File",
@@ -15425,6 +15447,17 @@
             "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/servers/cajadedom-test-1.20.1/files/mods/Highlighter-1.20.1-fabric-1.1.9.jar",
             "MD5": "158dd6513d0b6fbfdcd4ba407f7d272d",
             "path": "mods/Highlighter-1.20.1-fabric-1.1.9.jar"
+          }
+        },
+        {
+          "id": "htp-citoptimizer-1.0.0.jar",
+          "name": "htp-citoptimizer-1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 33112,
+            "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/servers/cajadedom-test-1.20.1/files/mods/htp-citoptimizer-1.0.0.jar",
+            "MD5": "bfbed17ce4062d31c3c8679838fee0f2",
+            "path": "mods/htp-citoptimizer-1.0.0.jar"
           }
         },
         {
@@ -15942,6 +15975,28 @@
             "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/servers/cajadedom-test-1.20.1/files/mods/lootintegrations-fabric-1.20.1-4.4.jar",
             "MD5": "ebb663b20ba3f77999b33ecc0e8cb980",
             "path": "mods/lootintegrations-fabric-1.20.1-4.4.jar"
+          }
+        },
+        {
+          "id": "lootintegrations_integrated-1.5.jar",
+          "name": "lootintegrations_integrated-1.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7789,
+            "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/servers/cajadedom-test-1.20.1/files/mods/lootintegrations_integrated-1.5.jar",
+            "MD5": "467d62a29712ea5a97d7f500c6a7203b",
+            "path": "mods/lootintegrations_integrated-1.5.jar"
+          }
+        },
+        {
+          "id": "lootintegrations_moog-2.0.jar",
+          "name": "lootintegrations_moog-2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6596,
+            "url": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/servers/cajadedom-test-1.20.1/files/mods/lootintegrations_moog-2.0.jar",
+            "MD5": "619088898521fbe6e59354a31959b28e",
+            "path": "mods/lootintegrations_moog-2.0.jar"
           }
         },
         {
