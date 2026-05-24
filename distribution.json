@@ -1,24 +1,26 @@
 {
-  "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "version": "1.0.1",
+  "rss": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/novedades.xml",
+  "loginbackground": "https://i.ibb.co/4Ryk2X1r/nowiclient-login-background.png",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1505808577279950910",
+    "smallImageText": "Nowi Client",
+    "smallImageKey": "nowiclient_icon"
   },
   "servers": [
     {
       "id": "cajadedom-modpack-test-1.20.1",
-      "name": "cajadedom-modpack-test (Minecraft 1.20.1)",
-      "description": "cajadedom-modpack-test Running Minecraft 1.20.1 (Fabric v0.19.2)",
-      "icon": "https://raw.githubusercontent.com/leenh27/nowiclientservers/refs/heads/main/servers/cajadedom-modpack-test-1.20.1/server-icon.png",
+      "name": "Caja de Dom",
+      "description": "¡Servidor oficial de la serie Caja de Dom!",
+      "icon": "https://i.ibb.co/DDSXn784/cajadedom-icon.png",
+      "background": "https://a-static.besthdwallpaper.com/source-code-wallpaper-2560x1440-59960_51.jpg",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "TESTEANDO - CAJA DE DOM",
+        "largeImageText": "cajadedom_logo",
+        "largeImageKey": "TESTEANDO - CAJA DE DOM"
       },
       "mainServer": false,
       "autoconnect": false,
