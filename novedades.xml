@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+    <channel>
+        <title>Nowi Client - Caja de Dom</title>
+        <link>https://github.com/leenh27/nowiclient/</link>
+        <item>
+            <title>¡BIENVENIDOS A NOWI CLIENT!</title>
+            <content:encoded>
+                <p>El launcher oficial para la serie ya está completamente listo.</p> <p>Estamos utilizando Fabric para garantizar el mejor rendimiento de todos en el servidor <strong>Caja de Dom</strong>.</p>
+            </content:encoded>
+            <dc:creator>leenh</dc:creator>
+            <pubDate>18 May 2026 00:00:00</pubDate>
+            <slash:comments>2026</slash:comments>
+        </item>
+        <item>
+            <title>ESTA SECCIÓN TENDRA TODAS LAS ACTUALIZACIONES</title>
+            <content:encoded>
+                <p>Desde esta pestaña les iré avisando cuando agreguemos nuevos mods o si hay algún mantenimiento programado.</p> <ul> <li>¡Recuerden revisar la asignación de RAM en los ajustes!</li>
+            </content:encoded>
+            <dc:creator>leenh</dc:creator>
+            <pubDate>18 May 2026 01:00:00</pubDate>
+        </item>
+    </channel>
+</rss>
+
